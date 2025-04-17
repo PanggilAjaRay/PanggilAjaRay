@@ -1,4 +1,4 @@
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VjenF2YW9hcWR6ZHpjcW13MTR0NHM1aDNtb204OXkxZ21iazRjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48Osj6XyU0ptQRfh5V/giphy.gif)
+![](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 <h1 align="center">Hi 👋, My name is Ray</h1>
 <h3 align="center">About Me:</h3>
 <h3>I'm newbie and code for fun </h3>
