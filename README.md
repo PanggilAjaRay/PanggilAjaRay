@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, My name is Ray</h1>
 <h3 align="center">About Me:</h3>
 <h3>I'm newbie and code for fun </h3>
-- 🌱 I’m currently learning **Webdev and Mobiledev**
+- 🌱 I’m currently learning **Webdev and Gamedev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
