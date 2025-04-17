@@ -1,4 +1,4 @@
-![](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VjenF2YW9hcWR6ZHpjcW13MTR0NHM1aDNtb204OXkxZ21iazRjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48Osj6XyU0ptQRfh5V/giphy.gif)
 <h1 align="center">Hi 👋, My name is Ray</h1>
 <h3 align="center">About Me:</h3>
 <h3>I'm newbie and code for fun </h3>
